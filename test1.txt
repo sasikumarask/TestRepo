@@ -1,1 +1,1 @@
-Testing all pages
+Testing all pages of the application
