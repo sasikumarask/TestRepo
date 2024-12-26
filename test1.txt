@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Testing all pages of the application
+=======
 Testing all pages including current page
+>>>>>>> c7c5eae2617472febe3d2aa7aa5bc67913119244
